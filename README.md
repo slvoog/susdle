@@ -1,7 +1,6 @@
-# worldle-unlimited
-A reimplementation of the word game "Worldle".
+# Susdle : A sus version of popular word guessing game *Wordle*
+***Original game website**: https://www.nytimes.com/games/wordle/index.html*
 
-Original game website: https://worldle.teuteuf.fr/
+My version: https://svloog.github.io/susdle/
 
-My version: https://svloog.github.io/worldle-unlimited/
 Forked From: https://github.com/bosorioo/wordle-unlimited
